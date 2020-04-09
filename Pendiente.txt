@@ -1,0 +1,11 @@
+Componente Crear Pregunta (en revision)
+Componente Pregunta
+Componente Agregar Respuesta
+Componente Perfil de Usuario
+
+
+iconito de + en crear pregunta
+
+
+
+Preparar la entrega
