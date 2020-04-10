@@ -1,0 +1,1 @@
+agrege todos los componente... el diseño feo pero ya masomenos estaria. Se soluciono el tema del logOut y faltaria poner un link a los usuarios para entrar al componente perfil.
