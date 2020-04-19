@@ -1,0 +1,9 @@
+Josemaria González  #17054/5
+Tomás Lautaro Chosco #15244/9
+
+Desarrollado en Windows 10. Pharo 8.0 64 bits
+
+Para registrar la aplicación:
+
+app := WAAdmin register: UiLoginComponent asApplicationAt: 'cuoora'.
+app sessionClass: SessionWithUser.
