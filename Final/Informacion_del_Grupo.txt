@@ -7,3 +7,5 @@ Para registrar la aplicación:
 
 app := WAAdmin register: UiLoginComponent asApplicationAt: 'cuoora'.
 app sessionClass: SessionWithUser.
+
+URL para acceder:  'cuoora'
